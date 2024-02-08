@@ -1,0 +1,22 @@
+h1{
+    color: blue;
+    font-size: 30px; /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */
+}
+
+p{ 
+    color: rgb(1, 2, 1);
+    font-size: 15px; /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */
+    font-family: "Open Sans", sans-serif; /* este deve ser o nome da fonte que você obteve no Google Fonts */
+}
+
+li {
+    list-style-type: none;
+  }
+
+  .special {
+    color: rgb(3, 3, 1);
+    font-weight: bold;
+    
+}
+ 
+ 
